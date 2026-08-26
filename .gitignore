@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Trained models
+models/
+*.keras
+*.h5
+
+# Large raw / processed data
+data/raw/
+data/processed/
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
